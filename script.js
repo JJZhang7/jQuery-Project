@@ -1,0 +1,9 @@
+$(".xxxx").click(function(){
+    $(".B").fadeToggle();
+});
+$(".yyyy").click(function(){
+    $(".C").toggle();
+});
+$(".zzzz").click(function(){
+    $(".D").slideToggle();
+});
