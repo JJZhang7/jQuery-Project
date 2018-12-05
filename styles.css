@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background: url("http://www.chinadaily.com.cn/life/images/attachement/jpg/site1/20110211/0013729c00250ebf1c4a63.jpg");
+}
+.A {
+    border: solid red 5px;
+    width: 250px;
+}
+.B {
+    display: flex;
+    justify-content: space-around;
+    width:300px;
+    text-align: center;
+}
+ .C {
+    display: flex;
+    justify-content: space-around;
+    width:300px;
+    text-align: center;
+ }
+ .D {
+    display: flex;
+    justify-content: space-around;
+    width:300px;
+    text-align: center;
+ }
+
+
+   
+
